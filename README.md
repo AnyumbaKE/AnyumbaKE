@@ -10,8 +10,13 @@
 
 ![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnyumbaKE&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnyumbaKE)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnyumbaKE&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
+[![](https://visitcount.itsvg.in/api?id=AnyumbaKE&icon=7&color=3)](https://visitcount.itsvg.in)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=AnyumbaKE&theme=highcontrast&show_icons=true&count_private=true)
-![Top Language]
+![Top Language}
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnyumbaKE&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
