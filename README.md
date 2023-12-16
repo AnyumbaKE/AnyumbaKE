@@ -21,9 +21,10 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnyumbaKE&theme=default&hide_border=false" alt="AnyumbaKE"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=100&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=100&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=100&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnyumbaKE&theme=default&hide_border=false" alt="AnyumbaKE"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=100&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
+
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=anyumbake&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
