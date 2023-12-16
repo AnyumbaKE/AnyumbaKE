@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnyumbaKE/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AnyumbaKE) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1104739068723609731)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300ACED.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnyumbaKE)
 
 
