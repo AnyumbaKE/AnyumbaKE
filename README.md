@@ -9,10 +9,12 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anyumbake&label=Profile%20Views&color=3&icon=5&pretty=false" />
+  <b>Profile Views </b><br>
+  <img src="https://profile-counter.glitch.me/Anyumbake/count.svg" />
+ 
 </div>
 
-<h1 align='center'>Hello, am Stan Anyumba</h1>
+<h1 align='center'>Hello, am Stanley Anyumba</h1>
 
 - 👀 I’m certified in cybersecurity, cloud computing and Network security
 - 🌱 I’m currently learning Full stack software engineering at ALX
