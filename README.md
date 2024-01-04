@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning Full stack software engineering at ALX
 - 📫 You can reach me through <a href="mailto:stanley@dualpix.co.ke">EMAIL</a>
 
+<img src="https://github.com/AnyumbaKE/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/definition-of-sniffer.jpg">
 
 ### 📊 GitHub Stats:
 
