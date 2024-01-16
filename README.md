@@ -13,12 +13,16 @@
   <img src="https://profile-counter.glitch.me/Anyumbake/count.svg" />
  
 </div>
+<br />
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Regular&weight=900&size=26&pause=1000&color=E02F1B&random=false&width=435&lines=Hello%2C++am+Stanley+Anyumba;It's+nice+to+finally+meet+you+here!;I+trust+you're+doing+well.;Welcome!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Regular&weight=900&size=26&pause=1000&color=E02F1B&random=false&width=435&lines=Hello%2C++am+Stanley+Anyumba;Nice+to+finally+meet+you+here!;I+trust+you're+doing+well.;Welcome!)](https://git.io/typing-svg)
-
+</div>
 <!--
 <h1 align='center'>Hello, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> am Stanley Anyumba</h1>
 -->
+
 - 👀 I’m certified in cybersecurity, cloud computing and Network security
 - 🌱 I’m currently learning Full stack software engineering at ALX
 - 📫 You can reach me through <a href="mailto:stanley@dualpix.co.ke">EMAIL</a>
