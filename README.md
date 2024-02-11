@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Full stack software engineering at ALX
 - 📫 You can reach me through <a href="mailto:stanley@dualpix.co.ke">EMAIL</a>
 
-<img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" width="640" height="360">
+<img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
 
 <!--
 
