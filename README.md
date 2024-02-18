@@ -23,9 +23,9 @@
 <h1 align='center'>Hello, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> am Stanley Anyumba</h1>
 -->
 
-- 👀 I’m certified in cybersecurity, cloud computing and Network security
-- 🌱 I’m currently learning Full stack software engineering at ALX
-- 📫 You can reach me through <a href="mailto:stanley@dualpix.co.ke">EMAIL</a>
+- :anchor: Bsc IT, CFOT, MCSA, AWS Solutions Architect
+- :open_book: Currently learning Full stack software engineering at ALX
+- :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
 
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
 
@@ -61,21 +61,19 @@
 
 
 ### 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat)
+![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-7DF1E?logo=amazon-aws&style=flat)
 ![Python](https://img.shields.io/badge/Python-282C34?logo=python&style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=flat)
 ![HTML](https://img.shields.io/badge/HTML-5E5E5E?logo=html5&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&style=flat)
 ![C](https://img.shields.io/badge/C-00FF00?logo=c&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat)
-![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-7DF1E?logo=amazon-aws&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&style=flat&labelColor=000000&color=000000)
-![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-00509E?logo=palo-alto-networks&style=flat)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&style=flat)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&style=flat)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&style=flat)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat)
@@ -89,6 +87,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat)
+
+<!--
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&style=flat)
+![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-00509E?logo=palo-alto-networks&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&style=flat)
+-->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnyumbaKE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
