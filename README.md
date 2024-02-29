@@ -23,8 +23,8 @@
 <h1 align='center'>Hello, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> am Stanley Anyumba</h1>
 -->
 
-- :anchor: Bsc IT, CFOT, MCSA, AWS Solutions Architect
-- :open_book: Currently learning Full stack software engineering at ALX
+- :anchor: Bsc IT, CFOS/D, MCSA, AWS Solutions Architect
+- :open_book: Currently learning Back-End Software development at ALX
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
 
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
