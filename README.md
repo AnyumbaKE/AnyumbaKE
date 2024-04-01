@@ -1,4 +1,9 @@
 <div align="center">
+<a href="https://user-badge.committers.top/kenya/AnyumbaKE">
+    <img src="https://user-badge.committers.top/kenya/AnyumbaKE.svg" alt="AnyumbaKE's Badge">
+</a>
+</div>
+<div align="center">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnyumbaKE/)
@@ -26,9 +31,9 @@
 - :anchor: Bsc IT, CFOS/D, MCSA, AWS Solutions Architect
 - :open_book: Currently learning Back-End Software development at ALX
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
-
+<div align="center">
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
-
+</div>
 <!--
 
 <img src="https://github.com/AnyumbaKE/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/definition-of-sniffer.jpg">
