@@ -53,11 +53,11 @@
  
 ### 📊 GitHub Stats:
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=10&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=20&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnyumbaKE&theme=default&hide_border=false" alt="AnyumbaKE"/></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=100&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=20&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
 
 
 <!--
