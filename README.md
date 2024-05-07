@@ -24,9 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Regular&weight=900&size=26&pause=1000&color=E02F1B&random=false&width=435&lines=Hello%2C++am+Stanley+Anyumba;It's+nice+to+finally+meet+you+here!;I+trust+you're+doing+well.;Welcome!)](https://git.io/typing-svg)
 
 </div>
-<!--
-<h1 align='center'>Hello, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> am Stanley Anyumba</h1>
--->
+
 
 - :anchor: Bsc IT, CFOS/D, MCSA, AWS Solutions Architect
 - :open_book: Currently learning Back-End Software development at ALX
@@ -34,22 +32,7 @@
 <div align="center">
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
 </div>
-<!--
 
-<img src="https://github.com/AnyumbaKE/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/definition-of-sniffer.jpg">
-<img src="https://github.com/AnyumbaKE/alx-higher_level_programming/blob/master/radar.mp4">
-
-<video controls>
-        <source src="https://github.com/AnyumbaKE/alx-higher_level_programming/blob/master/radar.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-</video>
-
- <object data="https://github.com/AnyumbaKE/alx-higher_level_programming/blob/master/radar.mp4" type="video/mp4" width="640" height="360">
-        <p>Your browser does not support the video tag or the file format of this video.</p>
-</object>
-
-<embed src="https://github.com/AnyumbaKE/alx-higher_level_programming/blob/master/radar.mp4" type="video/mp4" width="640" height="360">
- --> 
  
 ### 📊 GitHub Stats:
 
@@ -59,10 +42,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=16&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
 
-
-<!--
-[![](https://visitcount.itsvg.in/api?id=anyumbake&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
--->
 
 
 ### 💻 Tech Stack:
