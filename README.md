@@ -30,17 +30,17 @@
 - :open_book: Currently learning Back-End Software development at ALX
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
 <div align="center">
-<img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/devdesk.jpeg" align="center" width="640" height="360">
+<img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/dev.jpg" align="center" width="640" height="460">
 </div>
 
  
 ### 📊 GitHub Stats:
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=16&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnyumbaKE&langs_count=18&show_icons=true&locale=en&layout=compact" alt="AnyumbaKE" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnyumbaKE&theme=default&hide_border=false" alt="AnyumbaKE"/></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=16&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AnyumbaKE&langs_count=18&show_icons=true&locale=en" alt="AnyumbaKE" /></p>
 
 
 
