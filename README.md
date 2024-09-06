@@ -25,7 +25,7 @@
 </div>
 -->
 
-- :open_book: Currently learning C#
+- :open_book: Currently learning Full-Stack development
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
 
 
