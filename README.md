@@ -25,7 +25,7 @@
 </div>
 -->
 
-- :open_book: Currently learning Back-End Software development at ALX
+- :open_book: Currently learning C#
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
 
 
