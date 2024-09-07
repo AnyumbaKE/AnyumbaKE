@@ -24,10 +24,10 @@
 
 </div>
 -->
-
+<!--
 - :open_book: Currently learning Full-Stack development
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
-
+-->
 
 <div align="center">
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/dev.jpg" align="center" width="640" height="460">
