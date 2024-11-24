@@ -71,10 +71,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&style=for-the-badge)
 
 <div align="center">
- <p><b>Visitors as from 24th November 2024</b></p>
-    <a href="https://info.flagcounter.com/TFMR"><img src="https://s01.flagcounter.com/count2/TFMR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
+<a href="https://info.flagcounter.com/fvEH"><img src="https://s01.flagcounter.com/count2/fvEH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_Visitors+as+from+24th+November+2024/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 </div>
  
 
