@@ -17,17 +17,19 @@
  
 </div>
 <br />
-<!--
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Regular&weight=900&size=26&pause=1000&color=E02F1B&random=false&width=435&lines=Hello%2C++am+Stanley+Anyumba;It's+nice+to+finally+meet+you+here!;I+trust+you're+doing+well.;Welcome!)](https://git.io/typing-svg)
 
+<div align="center">
+ <!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Regular&weight=900&size=26&pause=1000&color=E02F1B&random=false&width=435&lines=Hello%2C++am+Stanley+Anyumba;It's+nice+to+finally+meet+you+here!;I+trust+you're+doing+well.;Welcome!)](https://git.io/typing-svg)
+-->
 </div>
--->
-<!--
-- :open_book: Currently learning Full-Stack development
+
+I am a Full Stack Developer
+- :student: BSc in Information Technology
+- :mag: Building seamless, user-friendly, and scalable web applications.
+- :open_book: Currently learning Mobile app development, Advanced Cloud Architecture, Docker, Kubernetes
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
--->
+
 
 <div align="center">
 <img src="https://github.com/AnyumbaKE/BootCamp-02-2024/blob/main/Resourses/images/dev.jpg" align="center" width="640" height="460">
@@ -50,26 +52,62 @@
 
 
 ### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML-5E5E5E?logo=html5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&style=for-the-badge&labelColor=000000&color=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-282C34?logo=python&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=for-the-badge)
-![C](https://img.shields.io/badge/C-00FF00?logo=c&style=for-the-badge)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-7DF1E?logo=amazon-aws&style=for-the-badge)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&style=for-the-badge)
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+    <a href="https://www.srting.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"width="60" height="60"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> 
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="60" height="60"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="60" height="60"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21~bgwhite.svg" alt="angularjs" width="60" height="60"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg" alt="nestjs" width="60" height="60"/> </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="60" height="60"/> </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="60" height="60"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>   
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>  
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> 
+    <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
+    <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/swagger.svg" alt="swagger" width="60" height="60"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
+    
+    
+    
+    
+    
+    
+    
+    
 
+</p>
+
+<br />
 <div align="center">
 <a href="https://info.flagcounter.com/fvEH"><img src="https://s01.flagcounter.com/count2/fvEH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_Visitors+as+from+24th+November+2024/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 </div>
