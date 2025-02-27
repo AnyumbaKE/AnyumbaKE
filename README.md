@@ -64,7 +64,7 @@ I am a Full Stack Developer
     
 </p>
 
-### Framework:
+### Frameworks:
 <p align="left"> 
     <a href="https://www.srting.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"width="60" height="60"/> </a> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="60" height="60"/> </a>
