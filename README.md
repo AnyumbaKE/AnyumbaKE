@@ -26,7 +26,6 @@
 
 I am a Full Stack Developer
 - :student: BSc in Information Technology
-- :8ball: MSc in Cyber Security & Digital Forensics
 - :mag: Building seamless, user-friendly, and scalable web applications.
 - :open_book: Currently learning Mobile app development, Advanced Cloud Architecture, Docker, Kubernetes
 - :e-mail: You can reach me through <a href="mailto:stanley@dualpix.co.ke">e-mail</a>
